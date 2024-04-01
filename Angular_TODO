@@ -1,0 +1,15 @@
+# Requirements:
+
+npm install @angular/cli
+ng version
+create new project
+tailwind css setup
+json server setup (fake api and db)
+html ui create
+component creation
+list task (data handling)
+create task (event handling )
+mark task completed (event handling )
+routing
+protecting routes
+search functionality
