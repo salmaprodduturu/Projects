@@ -1,0 +1,5 @@
+git checkout -b <new branch name>
+git add . (git add specific path <git status>)
+git status
+git commit -m "first commit"
+git push origin main (master/new branch name)
